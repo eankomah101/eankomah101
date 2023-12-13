@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer and Tech Enthusiast
 -------------------------------------
 
-"A seasoned software engineer with an unwavering passion for coding and technology. Adept in backend development, particularly with Java Spring Boot, crafting robust and scalable applications that meet the demands of modern web systems. Continuously seeking opportunities to expand my knowledge and contribute to meaningful projects that drive innovation and positive impact."
+"Passionate software engineer with a strong love for coding and technology. Actively upskilling in backend development, particularly with Java Spring Boot, aiming to craft robust and scalable applications for modern web systems. Continuously seeking opportunities to expand my knowledge and contribute to meaningful projects that drive innovation and positive impact."
 
 * 🌍  I'm based in Accra, Ghana
 * ✉️  You can contact me at [evansankomah101@gmail.com](mailto:evansankomah101@gmail.com)
